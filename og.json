@@ -1,0 +1,7 @@
+{
+"url" : "http://localhost:8080",
+"port" : 9000,
+"authentication" : {
+"credentials" : [{"username" : "es", "password" : "bonsai"}, {"username":"optimus", "password":"prime"}]
+}
+}
