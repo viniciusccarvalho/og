@@ -129,9 +129,4 @@ func auth(handler http.Handler) http.Handler {
 
 }
 
-func Validate(username, password string) bool {
-	if username == "vinicius" && password == "carvalho" {
-		return true
-	}
-	return false
-}
+
